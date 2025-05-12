@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, I'm Taehyung Kim!👋
+🎓 Master's student in Data Science  
+📍 Based in Zurich, Switzerland  
+💡 Interested in AI, Machine Learning, and Data Engineering  
+📊 Skilled in Python, Pandas, Scikit-learn, SQL, Git  
+📚 Learning advanced Machine Learning techniques and best practices
+📫 Reach me: taehyung.data@gmail.com
 
-<!--
-**taehyung-data/taehyung-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently Learning
+Advanced Machine Learning (XGBoost, CatBoost)
+MLOps (MLflow, Docker, CI/CD with GitHub Actions)
+Deep Learning with PyTorch
+SQL Query Optimization
