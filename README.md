@@ -6,3 +6,9 @@
 📚 Learning advanced Machine Learning techniques and best practices  
 📫 Reach me: taehyung.data@gmail.com
 
+🎓 Currently Learning  
+Advanced Machine Learning (XGBoost, CatBoost)  
+MLOps (MLflow, Docker, CI/CD with GitHub Actions)  
+Deep Learning with PyTorch  
+SQL Query Optimization
+
